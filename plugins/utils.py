@@ -9,8 +9,8 @@ from asyncio import sleep
 
 from bot import Bot
 from config import ADMINS, LOGGER
-from pyrogram import filters
-from pyrogram.types import Message
+from hydrogram import filters
+from hydrogram.types import Message
 
 
 @Bot.on_message(filters.command("logs") & filters.user(ADMINS))

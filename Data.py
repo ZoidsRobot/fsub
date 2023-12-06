@@ -1,7 +1,7 @@
 # CodeXBotz 
 # mrismanaziz
 
-from pyrogram.types import InlineKeyboardButton
+from hydrogram.types import InlineKeyboardButton
 
 class Data:
     HELP = """

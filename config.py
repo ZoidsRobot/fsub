@@ -1,5 +1,5 @@
 # Codexbotz 
-# @mrismanaziz
+# mrismanaziz
 
 
 from os import environ

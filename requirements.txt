@@ -1,5 +1,11 @@
-pyrogram==2.0.106
+# Framework
+hydrogram==0.1.4
+
+# Speedups
 tgcrypto==1.2.5
-pyromod==3.1.6
+uvloop==0.19.0
+
+# Database
 pymongo==4.6.1
+
 python-dotenv==1.0.0
