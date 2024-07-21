@@ -1,5 +1,5 @@
 # Framework
-hydrogram
+hydrogram==0.2.1
 
 # Speedups
 tgcrypto==1.2.5
